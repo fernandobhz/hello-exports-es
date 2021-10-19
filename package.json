@@ -1,0 +1,20 @@
+{
+  "name": "hello-exports-es",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fernandobhz/hello-exports-es.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fernandobhz/hello-exports-es/issues"
+  },
+  "homepage": "https://github.com/fernandobhz/hello-exports-es#readme"
+}
